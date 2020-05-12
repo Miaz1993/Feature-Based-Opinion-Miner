@@ -23,3 +23,7 @@ To output our result, we train labels with state of arts machine learning and de
 #modelTraining
 - Prepare dataframe into desire version
 - Trained machine learning, deep learning models achieve 78% average presicion
+
+#prediction, nlp predict, app
+- Data pipeline for realtime prediction
+- Flask interface
